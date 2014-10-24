@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Volumes/iwork/BaiduYun/Yun/workspaces/ruby_workspaces/lazy_high_charts'
+let g:netrw_dirhist_2='/Users/August'
+let g:netrw_dirhist_3='/Volumes/iwork/BaiduYun/Yun/workspaces/node_workspace/server_demo'
